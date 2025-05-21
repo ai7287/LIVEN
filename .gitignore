@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+
+# Build
+dist/
+build/
+
+# 기타
+frontend/node_modules/
