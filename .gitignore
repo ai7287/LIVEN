@@ -1,2 +1,2 @@
-# Ignore Streamlit secrets
+# Streamlit 시크릿 숨김
 backend/.streamlit/secrets.toml
