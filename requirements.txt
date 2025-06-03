@@ -1,0 +1,11 @@
+langchain==0.3.25
+langchain_community==0.3.24
+langchain_core==0.3.63
+langchain_groq==0.3.2
+langchain_huggingface==0.2.0
+numpy==2.2.6
+protobuf==4.25.3
+pydub==0.25.1
+scipy==1.15.3
+sounddevice==0.5.2
+streamlit==1.37.1
