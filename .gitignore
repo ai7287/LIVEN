@@ -22,3 +22,6 @@ build/
 frontend/node_modules/
 # Streamlit 시크릿 숨김
 backend/.streamlit/secrets.toml
+backend/google_key.json
+backend/kobert_emotion_model3.pth
+backend/finish_emotionpreprocess.csv
