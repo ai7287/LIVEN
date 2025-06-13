@@ -9,3 +9,8 @@ pydub==0.25.1
 scipy==1.15.3
 sounddevice==0.5.2
 streamlit==1.37.1
+google-cloud-speach
+faiss-cpu
+sentencepiece
+gTTS
+

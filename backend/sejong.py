@@ -64,7 +64,7 @@ def load_chain():
     db = FAISS.load_local("faiss_index", embedding_model, allow_dangerous_deserialization=True)
 
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="llama-3.1-405b-reasoning",
         temperature=0.7,
         max_tokens=1024,
         api_key=st.secrets["GROQ_API_KEY"]
